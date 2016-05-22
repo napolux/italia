@@ -6,7 +6,12 @@ In questo repository potrete trovare una serie di file utili a costruire elenchi
 
 * File JSON per comuni, province, regioni contenenti tutti i dati presenti nei file originali ISTAT
 * File JSON semplificati per comuni, province, regioni
+* File XML per comuni, province, regioni
 * Dump MySQL composto da tre tabelle: `comuni`, `province`, `regioni`. Le tabelle sono relazionate tra loro tramite i campi `ID_regione`, `ID_provincia`, `ID_comune`, rispettivamente 
+
+### Italiano o inglese?
+
+Essendo un repository ad uso prettamente autarchico, per le label di campi, oggetti, ecc... Ho preferito mantenere la variante italiana. Eventualmente in futuro sarà possibile aggiungere lingue differenti. 
 
 ### Come posso contribuire?
 
