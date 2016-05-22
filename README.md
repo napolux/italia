@@ -4,20 +4,23 @@ In questo repository potrete trovare una serie di file utili a costruire elenchi
 
 ### Contenuto del repository
 
-* File JSON per comuni, province, regioni contenenti tutti i dati presenti nei file originali ISTAT
-* File XML per comuni, province, regioni
-* Dump MySQL composto da tre tabelle: `comuni`, `province`, `regioni`. Le tabelle sono relazionate tra loro tramite i campi `ID_regione`, `ID_provincia`, `ID_comune`, rispettivamente 
-* Dump SQLite3 composto da tre tabelle: `comuni`, `province`, `regioni`. Le tabelle sono relazionate tra loro tramite i campi `ID_regione`, `ID_provincia`, `ID_comune`, rispettivamente
+* Dump MySQL composto da tre tabelle: `comuni`, `province`, `regioni`. Le tabelle sono relazionate tra loro tramite i campi `id_regione`, `id_provincia` rispettivamente
+* Dump SQLite3 composto da tre tabelle: `comuni`, `province`, `regioni`. Le tabelle sono relazionate tra loro tramite i campi `id_regione`, `id_provincia`, rispettivamente
+* File JSON per comuni, province, regioni ("relazionati" come le tabelle MySQL)
+* File XML per comuni, province, regioni ("relazionati" come le tabelle MySQL)
 
 ### Italiano o inglese?
 
-Essendo un repository ad uso prettamente autarchico, per le label di campi, oggetti, ecc... Ho preferito mantenere la variante italiana. Eventualmente in futuro sarà possibile aggiungere lingue differenti. 
+Essendo un repository ad uso prettamente autarchico, per le label di campi, oggetti, ecc... Ho preferito mantenere la variante italiana.
+Eventualmente in futuro sarà possibile aggiungere lingue differenti.
 
 ### Alcune precisazioni
 
-* I dati sono "ottimizzati" per l'uso "tipico" fatto da sviluppatori software (menù di selezione, archiviazione dati, ecc...). I codici di "associazione"" tra regione/provincia/comune potrebbe non coincidere
+* I dati sono "ottimizzati" per l'uso "tipico" fatto da sviluppatori software (menù di selezione, archiviazione dati, ecc...). I codici di "associazione" tra regione/provincia/comune potrebbe non coincidere
  con quelli indicati dall'ISTAT.
-* Le coordinate dei comuni sono presi dal sito [geonames.org](http://www.geonames.org/)
+* Dove indicati, sono utilizzati i doppi nomi (italiano/francese, italiano/tedesco)
+* Le coordinate geografiche sono prese dal sito [geonames.org](http://www.geonames.org/) o da fonti alternative, latitudine e longitudine sono precisi secondo il formato MySQL `Decimal(9,6)` come specificato [qui](http://stackoverflow.com/a/19066438/208623)
+* Le coordinate di Regioni, Province, Città Metropolitane fanno riferimento alle coodinate del capoluogo (o di uno dei capoluoghi), dove disponibili. Comunque ad un punto interno al territorio della provincia altrimenti.
 * Il tutto è "salvo errori e/o omissioni"
 
 ### Come posso contribuire?
