@@ -22,4 +22,4 @@ Puoi contribuire aggiungendo:
 
 ### Aggiornamento dati
 
-I dati sono basati sui [file originali ISTAT](http://www.istat.it/it/archivio/6789) aggiornati al **23 Aprile 2016**. Verranno aggiornati ogni volta che ISTAT rilascerà nuovi dati aggiornati.
+I dati sono basati sui [file originali ISTAT](http://www.istat.it/it/archivio/6789) aggiornati al **23 Aprile 2016**. Verranno aggiornati ogni volta che ISTAT rilascerà nuovi dati.
