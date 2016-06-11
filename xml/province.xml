@@ -1,0 +1,993 @@
+<?xml version="1.0"?>
+<province>
+    <provincia>
+        <campo nome="id">1</campo>
+        <campo nome="id_regione">1</campo>
+        <campo nome="codice_citta_metropolitana">201</campo>
+        <campo nome="nome">Torino</campo>
+        <campo nome="sigla_automobilistica">TO</campo>
+        <campo nome="latitudine">45.063299</campo>
+        <campo nome="longitudine">7.669289</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">2</campo>
+        <campo nome="id_regione">1</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Vercelli</campo>
+        <campo nome="sigla_automobilistica">VC</campo>
+        <campo nome="latitudine">45.320220</campo>
+        <campo nome="longitudine">8.418508</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">3</campo>
+        <campo nome="id_regione">1</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Novara</campo>
+        <campo nome="sigla_automobilistica">NO</campo>
+        <campo nome="latitudine">45.548513</campo>
+        <campo nome="longitudine">8.515079</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">4</campo>
+        <campo nome="id_regione">1</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Cuneo</campo>
+        <campo nome="sigla_automobilistica">CN</campo>
+        <campo nome="latitudine">44.597031</campo>
+        <campo nome="longitudine">7.611422</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">5</campo>
+        <campo nome="id_regione">1</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Asti</campo>
+        <campo nome="sigla_automobilistica">AT</campo>
+        <campo nome="latitudine">44.900765</campo>
+        <campo nome="longitudine">8.206432</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">6</campo>
+        <campo nome="id_regione">1</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Alessandria</campo>
+        <campo nome="sigla_automobilistica">AL</campo>
+        <campo nome="latitudine">44.817559</campo>
+        <campo nome="longitudine">8.704663</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">7</campo>
+        <campo nome="id_regione">2</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Valle d'Aosta/Vallée d'Aoste</campo>
+        <campo nome="sigla_automobilistica">AO</campo>
+        <campo nome="latitudine">45.738888</campo>
+        <campo nome="longitudine">7.426187</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">8</campo>
+        <campo nome="id_regione">7</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Imperia</campo>
+        <campo nome="sigla_automobilistica">IM</campo>
+        <campo nome="latitudine">43.941866</campo>
+        <campo nome="longitudine">7.828637</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">9</campo>
+        <campo nome="id_regione">7</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Savona</campo>
+        <campo nome="sigla_automobilistica">SV</campo>
+        <campo nome="latitudine">44.288800</campo>
+        <campo nome="longitudine">8.265058</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">10</campo>
+        <campo nome="id_regione">7</campo>
+        <campo nome="codice_citta_metropolitana">210</campo>
+        <campo nome="nome">Genova</campo>
+        <campo nome="sigla_automobilistica">GE</campo>
+        <campo nome="latitudine">44.446625</campo>
+        <campo nome="longitudine">9.145615</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">11</campo>
+        <campo nome="id_regione">7</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">La Spezia</campo>
+        <campo nome="sigla_automobilistica">SP</campo>
+        <campo nome="latitudine">44.102450</campo>
+        <campo nome="longitudine">9.824083</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">12</campo>
+        <campo nome="id_regione">3</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Varese</campo>
+        <campo nome="sigla_automobilistica">VA</campo>
+        <campo nome="latitudine">45.799026</campo>
+        <campo nome="longitudine">8.730095</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">13</campo>
+        <campo nome="id_regione">3</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Como</campo>
+        <campo nome="sigla_automobilistica">CO</campo>
+        <campo nome="latitudine">45.808042</campo>
+        <campo nome="longitudine">9.085179</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">14</campo>
+        <campo nome="id_regione">3</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Sondrio</campo>
+        <campo nome="sigla_automobilistica">SO</campo>
+        <campo nome="latitudine">46.172764</campo>
+        <campo nome="longitudine">9.799492</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">15</campo>
+        <campo nome="id_regione">3</campo>
+        <campo nome="codice_citta_metropolitana">215</campo>
+        <campo nome="nome">Milano</campo>
+        <campo nome="sigla_automobilistica">MI</campo>
+        <campo nome="latitudine">45.458626</campo>
+        <campo nome="longitudine">9.181873</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">16</campo>
+        <campo nome="id_regione">3</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Bergamo</campo>
+        <campo nome="sigla_automobilistica">BG</campo>
+        <campo nome="latitudine">45.857830</campo>
+        <campo nome="longitudine">9.881998</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">17</campo>
+        <campo nome="id_regione">3</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Brescia</campo>
+        <campo nome="sigla_automobilistica">BS</campo>
+        <campo nome="latitudine">45.659677</campo>
+        <campo nome="longitudine">10.385672</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">18</campo>
+        <campo nome="id_regione">3</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Pavia</campo>
+        <campo nome="sigla_automobilistica">PV</campo>
+        <campo nome="latitudine">45.321817</campo>
+        <campo nome="longitudine">8.846624</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">19</campo>
+        <campo nome="id_regione">3</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Cremona</campo>
+        <campo nome="sigla_automobilistica">CR</campo>
+        <campo nome="latitudine">45.201438</campo>
+        <campo nome="longitudine">9.983658</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">20</campo>
+        <campo nome="id_regione">3</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Mantova</campo>
+        <campo nome="sigla_automobilistica">MN</campo>
+        <campo nome="latitudine">45.156417</campo>
+        <campo nome="longitudine">10.791375</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">21</campo>
+        <campo nome="id_regione">4</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Bolzano/Bozen</campo>
+        <campo nome="sigla_automobilistica">BZ</campo>
+        <campo nome="latitudine">46.734096</campo>
+        <campo nome="longitudine">11.288802</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">22</campo>
+        <campo nome="id_regione">4</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Trento</campo>
+        <campo nome="sigla_automobilistica">TN</campo>
+        <campo nome="latitudine">46.051200</campo>
+        <campo nome="longitudine">11.117539</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">23</campo>
+        <campo nome="id_regione">5</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Verona</campo>
+        <campo nome="sigla_automobilistica">VR</campo>
+        <campo nome="latitudine">45.441850</campo>
+        <campo nome="longitudine">11.073532</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">24</campo>
+        <campo nome="id_regione">5</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Vicenza</campo>
+        <campo nome="sigla_automobilistica">VI</campo>
+        <campo nome="latitudine">45.545479</campo>
+        <campo nome="longitudine">11.535421</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">25</campo>
+        <campo nome="id_regione">5</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Belluno</campo>
+        <campo nome="sigla_automobilistica">BL</campo>
+        <campo nome="latitudine">46.249766</campo>
+        <campo nome="longitudine">12.196957</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">26</campo>
+        <campo nome="id_regione">5</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Treviso</campo>
+        <campo nome="sigla_automobilistica">TV</campo>
+        <campo nome="latitudine">45.666852</campo>
+        <campo nome="longitudine">12.243062</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">27</campo>
+        <campo nome="id_regione">5</campo>
+        <campo nome="codice_citta_metropolitana">227</campo>
+        <campo nome="nome">Venezia</campo>
+        <campo nome="sigla_automobilistica">VE</campo>
+        <campo nome="latitudine">45.493048</campo>
+        <campo nome="longitudine">12.417700</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">28</campo>
+        <campo nome="id_regione">5</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Padova</campo>
+        <campo nome="sigla_automobilistica">PD</campo>
+        <campo nome="latitudine">45.366186</campo>
+        <campo nome="longitudine">11.820914</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">29</campo>
+        <campo nome="id_regione">5</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Rovigo</campo>
+        <campo nome="sigla_automobilistica">RO</campo>
+        <campo nome="latitudine">45.024182</campo>
+        <campo nome="longitudine">11.823816</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">30</campo>
+        <campo nome="id_regione">6</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Udine</campo>
+        <campo nome="sigla_automobilistica">UD</campo>
+        <campo nome="latitudine">46.140797</campo>
+        <campo nome="longitudine">13.166290</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">31</campo>
+        <campo nome="id_regione">6</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Gorizia</campo>
+        <campo nome="sigla_automobilistica">GO</campo>
+        <campo nome="latitudine">45.905390</campo>
+        <campo nome="longitudine">13.516373</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">32</campo>
+        <campo nome="id_regione">6</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Trieste</campo>
+        <campo nome="sigla_automobilistica">TS</campo>
+        <campo nome="latitudine">45.689482</campo>
+        <campo nome="longitudine">13.783307</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">33</campo>
+        <campo nome="id_regione">8</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Piacenza</campo>
+        <campo nome="sigla_automobilistica">PC</campo>
+        <campo nome="latitudine">44.826311</campo>
+        <campo nome="longitudine">9.529145</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">34</campo>
+        <campo nome="id_regione">8</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Parma</campo>
+        <campo nome="sigla_automobilistica">PR</campo>
+        <campo nome="latitudine">44.801532</campo>
+        <campo nome="longitudine">10.327935</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">35</campo>
+        <campo nome="id_regione">8</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Reggio nell'Emilia</campo>
+        <campo nome="sigla_automobilistica">RE</campo>
+        <campo nome="latitudine">44.585658</campo>
+        <campo nome="longitudine">10.556474</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">36</campo>
+        <campo nome="id_regione">8</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Modena</campo>
+        <campo nome="sigla_automobilistica">MO</campo>
+        <campo nome="latitudine">44.551380</campo>
+        <campo nome="longitudine">10.918048</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">37</campo>
+        <campo nome="id_regione">8</campo>
+        <campo nome="codice_citta_metropolitana">237</campo>
+        <campo nome="nome">Bologna</campo>
+        <campo nome="sigla_automobilistica">BO</campo>
+        <campo nome="latitudine">44.500510</campo>
+        <campo nome="longitudine">11.304784</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">38</campo>
+        <campo nome="id_regione">8</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Ferrara</campo>
+        <campo nome="sigla_automobilistica">FE</campo>
+        <campo nome="latitudine">44.766368</campo>
+        <campo nome="longitudine">11.764407</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">39</campo>
+        <campo nome="id_regione">8</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Ravenna</campo>
+        <campo nome="sigla_automobilistica">RA</campo>
+        <campo nome="latitudine">44.418444</campo>
+        <campo nome="longitudine">12.203600</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">40</campo>
+        <campo nome="id_regione">8</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Forlì-Cesena</campo>
+        <campo nome="sigla_automobilistica">FC</campo>
+        <campo nome="latitudine">44.222500</campo>
+        <campo nome="longitudine">12.040833</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">41</campo>
+        <campo nome="id_regione">11</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Pesaro e Urbino</campo>
+        <campo nome="sigla_automobilistica">PU</campo>
+        <campo nome="latitudine">43.613012</campo>
+        <campo nome="longitudine">12.713512</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">42</campo>
+        <campo nome="id_regione">11</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Ancona</campo>
+        <campo nome="sigla_automobilistica">AN</campo>
+        <campo nome="latitudine">43.549325</campo>
+        <campo nome="longitudine">13.266348</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">43</campo>
+        <campo nome="id_regione">11</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Macerata</campo>
+        <campo nome="sigla_automobilistica">MC</campo>
+        <campo nome="latitudine">43.245932</campo>
+        <campo nome="longitudine">13.266348</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">44</campo>
+        <campo nome="id_regione">11</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Ascoli Piceno</campo>
+        <campo nome="sigla_automobilistica">AP</campo>
+        <campo nome="latitudine">42.863893</campo>
+        <campo nome="longitudine">13.589973</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">45</campo>
+        <campo nome="id_regione">9</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Massa-Carrara</campo>
+        <campo nome="sigla_automobilistica">MS</campo>
+        <campo nome="latitudine">44.079325</campo>
+        <campo nome="longitudine">10.097677</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">46</campo>
+        <campo nome="id_regione">9</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Lucca</campo>
+        <campo nome="sigla_automobilistica">LU</campo>
+        <campo nome="latitudine">43.837674</campo>
+        <campo nome="longitudine">10.495053</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">47</campo>
+        <campo nome="id_regione">9</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Pistoia</campo>
+        <campo nome="sigla_automobilistica">PT</campo>
+        <campo nome="latitudine">43.954373</campo>
+        <campo nome="longitudine">10.890310</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">48</campo>
+        <campo nome="id_regione">9</campo>
+        <campo nome="codice_citta_metropolitana">248</campo>
+        <campo nome="nome">Firenze</campo>
+        <campo nome="sigla_automobilistica">FI</campo>
+        <campo nome="latitudine">43.767918</campo>
+        <campo nome="longitudine">11.252379</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">49</campo>
+        <campo nome="id_regione">9</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Livorno</campo>
+        <campo nome="sigla_automobilistica">LI</campo>
+        <campo nome="latitudine">43.023985</campo>
+        <campo nome="longitudine">10.664710</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">50</campo>
+        <campo nome="id_regione">9</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Pisa</campo>
+        <campo nome="sigla_automobilistica">PI</campo>
+        <campo nome="latitudine">43.722832</campo>
+        <campo nome="longitudine">10.401719</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">51</campo>
+        <campo nome="id_regione">9</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Arezzo</campo>
+        <campo nome="sigla_automobilistica">AR</campo>
+        <campo nome="latitudine">43.466896</campo>
+        <campo nome="longitudine">11.882360</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">52</campo>
+        <campo nome="id_regione">9</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Siena</campo>
+        <campo nome="sigla_automobilistica">SI</campo>
+        <campo nome="latitudine">43.293773</campo>
+        <campo nome="longitudine">11.433915</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">53</campo>
+        <campo nome="id_regione">9</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Grosseto</campo>
+        <campo nome="sigla_automobilistica">GR</campo>
+        <campo nome="latitudine">42.851801</campo>
+        <campo nome="longitudine">11.252379</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">54</campo>
+        <campo nome="id_regione">10</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Perugia</campo>
+        <campo nome="sigla_automobilistica">PG</campo>
+        <campo nome="latitudine">42.938004</campo>
+        <campo nome="longitudine">12.621621</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">55</campo>
+        <campo nome="id_regione">10</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Terni</campo>
+        <campo nome="sigla_automobilistica">TR</campo>
+        <campo nome="latitudine">42.563453</campo>
+        <campo nome="longitudine">12.529803</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">56</campo>
+        <campo nome="id_regione">12</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Viterbo</campo>
+        <campo nome="sigla_automobilistica">VT</campo>
+        <campo nome="latitudine">42.420677</campo>
+        <campo nome="longitudine">12.107669</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">57</campo>
+        <campo nome="id_regione">12</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Rieti</campo>
+        <campo nome="sigla_automobilistica">RI</campo>
+        <campo nome="latitudine">42.367441</campo>
+        <campo nome="longitudine">12.897510</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">58</campo>
+        <campo nome="id_regione">12</campo>
+        <campo nome="codice_citta_metropolitana">258</campo>
+        <campo nome="nome">Roma</campo>
+        <campo nome="sigla_automobilistica">RM</campo>
+        <campo nome="latitudine">41.872411</campo>
+        <campo nome="longitudine">12.480225</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">59</campo>
+        <campo nome="id_regione">12</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Latina</campo>
+        <campo nome="sigla_automobilistica">LT</campo>
+        <campo nome="latitudine">41.408748</campo>
+        <campo nome="longitudine">13.081790</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">60</campo>
+        <campo nome="id_regione">12</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Frosinone</campo>
+        <campo nome="sigla_automobilistica">FR</campo>
+        <campo nome="latitudine">41.657653</campo>
+        <campo nome="longitudine">13.636272</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">61</campo>
+        <campo nome="id_regione">15</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Caserta</campo>
+        <campo nome="sigla_automobilistica">CE</campo>
+        <campo nome="latitudine">41.207835</campo>
+        <campo nome="longitudine">14.100133</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">62</campo>
+        <campo nome="id_regione">15</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Benevento</campo>
+        <campo nome="sigla_automobilistica">BN</campo>
+        <campo nome="latitudine">41.203509</campo>
+        <campo nome="longitudine">14.752094</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">63</campo>
+        <campo nome="id_regione">15</campo>
+        <campo nome="codice_citta_metropolitana">263</campo>
+        <campo nome="nome">Napoli</campo>
+        <campo nome="sigla_automobilistica">NA</campo>
+        <campo nome="latitudine">40.901975</campo>
+        <campo nome="longitudine">14.332644</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">64</campo>
+        <campo nome="id_regione">15</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Avellino</campo>
+        <campo nome="sigla_automobilistica">AV</campo>
+        <campo nome="latitudine">40.996451</campo>
+        <campo nome="longitudine">15.125896</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">65</campo>
+        <campo nome="id_regione">15</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Salerno</campo>
+        <campo nome="sigla_automobilistica">SA</campo>
+        <campo nome="latitudine">40.428783</campo>
+        <campo nome="longitudine">15.219481</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">66</campo>
+        <campo nome="id_regione">13</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">L'Aquila</campo>
+        <campo nome="sigla_automobilistica">AQ</campo>
+        <campo nome="latitudine">42.349848</campo>
+        <campo nome="longitudine">13.399509</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">67</campo>
+        <campo nome="id_regione">13</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Teramo</campo>
+        <campo nome="sigla_automobilistica">TE</campo>
+        <campo nome="latitudine">42.589561</campo>
+        <campo nome="longitudine">13.636272</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">68</campo>
+        <campo nome="id_regione">13</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Pescara</campo>
+        <campo nome="sigla_automobilistica">PE</campo>
+        <campo nome="latitudine">42.357066</campo>
+        <campo nome="longitudine">13.960809</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">69</campo>
+        <campo nome="id_regione">13</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Chieti</campo>
+        <campo nome="sigla_automobilistica">CH</campo>
+        <campo nome="latitudine">42.033443</campo>
+        <campo nome="longitudine">14.379191</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">70</campo>
+        <campo nome="id_regione">14</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Campobasso</campo>
+        <campo nome="sigla_automobilistica">CB</campo>
+        <campo nome="latitudine">41.673887</campo>
+        <campo nome="longitudine">14.752094</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">71</campo>
+        <campo nome="id_regione">16</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Foggia</campo>
+        <campo nome="sigla_automobilistica">FG</campo>
+        <campo nome="latitudine">41.638448</campo>
+        <campo nome="longitudine">15.594339</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">72</campo>
+        <campo nome="id_regione">16</campo>
+        <campo nome="codice_citta_metropolitana">272</campo>
+        <campo nome="nome">Bari</campo>
+        <campo nome="sigla_automobilistica">BA</campo>
+        <campo nome="latitudine">41.117123</campo>
+        <campo nome="longitudine">16.871976</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">73</campo>
+        <campo nome="id_regione">16</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Taranto</campo>
+        <campo nome="sigla_automobilistica">TA</campo>
+        <campo nome="latitudine">40.574090</campo>
+        <campo nome="longitudine">17.242998</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">74</campo>
+        <campo nome="id_regione">16</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Brindisi</campo>
+        <campo nome="sigla_automobilistica">BR</campo>
+        <campo nome="latitudine">40.611266</campo>
+        <campo nome="longitudine">17.763621</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">75</campo>
+        <campo nome="id_regione">16</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Lecce</campo>
+        <campo nome="sigla_automobilistica">LE</campo>
+        <campo nome="latitudine">40.234739</campo>
+        <campo nome="longitudine">18.142867</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">76</campo>
+        <campo nome="id_regione">17</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Potenza</campo>
+        <campo nome="sigla_automobilistica">PZ</campo>
+        <campo nome="latitudine">40.418219</campo>
+        <campo nome="longitudine">15.876004</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">77</campo>
+        <campo nome="id_regione">17</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Matera</campo>
+        <campo nome="sigla_automobilistica">MT</campo>
+        <campo nome="latitudine">40.666350</campo>
+        <campo nome="longitudine">16.604364</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">78</campo>
+        <campo nome="id_regione">18</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Cosenza</campo>
+        <campo nome="sigla_automobilistica">CS</campo>
+        <campo nome="latitudine">39.564411</campo>
+        <campo nome="longitudine">16.252214</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">79</campo>
+        <campo nome="id_regione">18</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Catanzaro</campo>
+        <campo nome="sigla_automobilistica">CZ</campo>
+        <campo nome="latitudine">38.889635</campo>
+        <campo nome="longitudine">16.440587</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">80</campo>
+        <campo nome="id_regione">18</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Reggio di Calabria</campo>
+        <campo nome="sigla_automobilistica">RC</campo>
+        <campo nome="latitudine">38.111301</campo>
+        <campo nome="longitudine">15.647291</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">81</campo>
+        <campo nome="id_regione">19</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Trapani</campo>
+        <campo nome="sigla_automobilistica">TP</campo>
+        <campo nome="latitudine">37.877740</campo>
+        <campo nome="longitudine">12.713512</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">82</campo>
+        <campo nome="id_regione">19</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Palermo</campo>
+        <campo nome="sigla_automobilistica">PA</campo>
+        <campo nome="latitudine">38.115621</campo>
+        <campo nome="longitudine">13.361318</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">83</campo>
+        <campo nome="id_regione">19</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Messina</campo>
+        <campo nome="sigla_automobilistica">ME</campo>
+        <campo nome="latitudine">38.063240</campo>
+        <campo nome="longitudine">14.985618</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">84</campo>
+        <campo nome="id_regione">19</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Agrigento</campo>
+        <campo nome="sigla_automobilistica">AG</campo>
+        <campo nome="latitudine">37.311090</campo>
+        <campo nome="longitudine">13.576548</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">85</campo>
+        <campo nome="id_regione">19</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Caltanissetta</campo>
+        <campo nome="sigla_automobilistica">CL</campo>
+        <campo nome="latitudine">37.490112</campo>
+        <campo nome="longitudine">14.062893</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">86</campo>
+        <campo nome="id_regione">19</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Enna</campo>
+        <campo nome="sigla_automobilistica">EN</campo>
+        <campo nome="latitudine">37.516481</campo>
+        <campo nome="longitudine">14.379191</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">87</campo>
+        <campo nome="id_regione">19</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Catania</campo>
+        <campo nome="sigla_automobilistica">CT</campo>
+        <campo nome="latitudine">37.612598</campo>
+        <campo nome="longitudine">14.938885</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">88</campo>
+        <campo nome="id_regione">19</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Ragusa</campo>
+        <campo nome="sigla_automobilistica">RG</campo>
+        <campo nome="latitudine">36.930622</campo>
+        <campo nome="longitudine">14.705431</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">89</campo>
+        <campo nome="id_regione">19</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Siracusa</campo>
+        <campo nome="sigla_automobilistica">SR</campo>
+        <campo nome="latitudine">37.075437</campo>
+        <campo nome="longitudine">15.286593</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">90</campo>
+        <campo nome="id_regione">20</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Sassari</campo>
+        <campo nome="sigla_automobilistica">SS</campo>
+        <campo nome="latitudine">40.796791</campo>
+        <campo nome="longitudine">8.575041</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">91</campo>
+        <campo nome="id_regione">20</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Nuoro</campo>
+        <campo nome="sigla_automobilistica">NU</campo>
+        <campo nome="latitudine">40.328690</campo>
+        <campo nome="longitudine">9.456155</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">92</campo>
+        <campo nome="id_regione">20</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Cagliari</campo>
+        <campo nome="sigla_automobilistica">CA</campo>
+        <campo nome="latitudine">39.223763</campo>
+        <campo nome="longitudine">9.121867</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">93</campo>
+        <campo nome="id_regione">6</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Pordenone</campo>
+        <campo nome="sigla_automobilistica">PN</campo>
+        <campo nome="latitudine">46.037886</campo>
+        <campo nome="longitudine">12.710835</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">94</campo>
+        <campo nome="id_regione">14</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Isernia</campo>
+        <campo nome="sigla_automobilistica">IS</campo>
+        <campo nome="latitudine">41.589156</campo>
+        <campo nome="longitudine">14.193092</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">95</campo>
+        <campo nome="id_regione">20</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Oristano</campo>
+        <campo nome="sigla_automobilistica">OR</campo>
+        <campo nome="latitudine">40.059907</campo>
+        <campo nome="longitudine">8.748117</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">96</campo>
+        <campo nome="id_regione">1</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Biella</campo>
+        <campo nome="sigla_automobilistica">BI</campo>
+        <campo nome="latitudine">45.562818</campo>
+        <campo nome="longitudine">8.058272</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">97</campo>
+        <campo nome="id_regione">3</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Lecco</campo>
+        <campo nome="sigla_automobilistica">LC</campo>
+        <campo nome="latitudine">45.938294</campo>
+        <campo nome="longitudine">9.385729</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">98</campo>
+        <campo nome="id_regione">3</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Lodi</campo>
+        <campo nome="sigla_automobilistica">LO</campo>
+        <campo nome="latitudine">45.240504</campo>
+        <campo nome="longitudine">9.529251</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">99</campo>
+        <campo nome="id_regione">8</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Rimini</campo>
+        <campo nome="sigla_automobilistica">RN</campo>
+        <campo nome="latitudine">43.967605</campo>
+        <campo nome="longitudine">12.575703</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">100</campo>
+        <campo nome="id_regione">9</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Prato</campo>
+        <campo nome="sigla_automobilistica">PO</campo>
+        <campo nome="latitudine">44.045390</campo>
+        <campo nome="longitudine">11.116445</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">101</campo>
+        <campo nome="id_regione">18</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Crotone</campo>
+        <campo nome="sigla_automobilistica">KR</campo>
+        <campo nome="latitudine">39.130986</campo>
+        <campo nome="longitudine">17.006703</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">102</campo>
+        <campo nome="id_regione">18</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Vibo Valentia</campo>
+        <campo nome="sigla_automobilistica">VV</campo>
+        <campo nome="latitudine">38.637857</campo>
+        <campo nome="longitudine">16.205148</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">103</campo>
+        <campo nome="id_regione">1</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Verbano-Cusio-Ossola</campo>
+        <campo nome="sigla_automobilistica">VB</campo>
+        <campo nome="latitudine">46.139969</campo>
+        <campo nome="longitudine">8.272465</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">104</campo>
+        <campo nome="id_regione">20</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Olbia-Tempio</campo>
+        <campo nome="sigla_automobilistica">OT</campo>
+        <campo nome="latitudine">40.826838</campo>
+        <campo nome="longitudine">9.278558</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">105</campo>
+        <campo nome="id_regione">20</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Ogliastra</campo>
+        <campo nome="sigla_automobilistica">OG</campo>
+        <campo nome="latitudine">39.841054</campo>
+        <campo nome="longitudine">9.456155</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">106</campo>
+        <campo nome="id_regione">20</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Medio Campidano</campo>
+        <campo nome="sigla_automobilistica">VS</campo>
+        <campo nome="latitudine">39.531739</campo>
+        <campo nome="longitudine">8.704075</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">107</campo>
+        <campo nome="id_regione">20</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Carbonia-Iglesias</campo>
+        <campo nome="sigla_automobilistica">CI</campo>
+        <campo nome="latitudine">39.253466</campo>
+        <campo nome="longitudine">8.572102</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">108</campo>
+        <campo nome="id_regione">3</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Monza e della Brianza</campo>
+        <campo nome="sigla_automobilistica">MB</campo>
+        <campo nome="latitudine">45.623599</campo>
+        <campo nome="longitudine">9.258802</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">109</campo>
+        <campo nome="id_regione">11</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Fermo</campo>
+        <campo nome="sigla_automobilistica">FM</campo>
+        <campo nome="latitudine">43.093137</campo>
+        <campo nome="longitudine">13.589973</campo>
+    </provincia>
+    <provincia>
+        <campo nome="id">110</campo>
+        <campo nome="id_regione">16</campo>
+        <campo nome="codice_citta_metropolitana" />
+        <campo nome="nome">Barletta-Andria-Trani</campo>
+        <campo nome="sigla_automobilistica">BT</campo>
+        <campo nome="latitudine">41.200454</campo>
+        <campo nome="longitudine">16.205148</campo>
+    </provincia>
+</province>

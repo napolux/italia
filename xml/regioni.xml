@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<regioni>
+    <regione>
+        <campo name="id">1</campo>
+        <campo name="nome">Piemonte</campo>
+        <campo name="latitudine">45.066667</campo>
+        <campo name="longitudine">7.700000</campo>
+    </regione>
+    <regione>
+        <campo name="id">2</campo>
+        <campo name="nome">Valle d'Aosta/Vallée d'Aoste</campo>
+        <campo name="latitudine">45.737222</campo>
+        <campo name="longitudine">7.320556</campo>
+    </regione>
+    <regione>
+        <campo name="id">3</campo>
+        <campo name="nome">Lombardia</campo>
+        <campo name="latitudine">45.464161</campo>
+        <campo name="longitudine">9.190336</campo>
+    </regione>
+    <regione>
+        <campo name="id">4</campo>
+        <campo name="nome">Trentino-Alto Adige/Südtirol</campo>
+        <campo name="latitudine">46.066667</campo>
+        <campo name="longitudine">11.116667</campo>
+    </regione>
+    <regione>
+        <campo name="id">5</campo>
+        <campo name="nome">Veneto</campo>
+        <campo name="latitudine">45.439722</campo>
+        <campo name="longitudine">12.331944</campo>
+    </regione>
+    <regione>
+        <campo name="id">6</campo>
+        <campo name="nome">Friuli-Venezia Giulia</campo>
+        <campo name="latitudine">45.636111</campo>
+        <campo name="longitudine">13.804167</campo>
+    </regione>
+    <regione>
+        <campo name="id">7</campo>
+        <campo name="nome">Liguria</campo>
+        <campo name="latitudine">44.411156</campo>
+        <campo name="longitudine">8.932661</campo>
+    </regione>
+    <regione>
+        <campo name="id">8</campo>
+        <campo name="nome">Emilia-Romagna</campo>
+        <campo name="latitudine">44.493889</campo>
+        <campo name="longitudine">11.342778</campo>
+    </regione>
+    <regione>
+        <campo name="id">9</campo>
+        <campo name="nome">Toscana</campo>
+        <campo name="latitudine">43.771389</campo>
+        <campo name="longitudine">11.254167</campo>
+    </regione>
+    <regione>
+        <campo name="id">10</campo>
+        <campo name="nome">Umbria</campo>
+        <campo name="latitudine">43.112100</campo>
+        <campo name="longitudine">12.388800</campo>
+    </regione>
+    <regione>
+        <campo name="id">11</campo>
+        <campo name="nome">Marche</campo>
+        <campo name="latitudine">43.616667</campo>
+        <campo name="longitudine">13.516667</campo>
+    </regione>
+    <regione>
+        <campo name="id">12</campo>
+        <campo name="nome">Lazio</campo>
+        <campo name="latitudine">41.893056</campo>
+        <campo name="longitudine">12.482778</campo>
+    </regione>
+    <regione>
+        <campo name="id">13</campo>
+        <campo name="nome">Abruzzo</campo>
+        <campo name="latitudine">42.354008</campo>
+        <campo name="longitudine">13.391992</campo>
+    </regione>
+    <regione>
+        <campo name="id">14</campo>
+        <campo name="nome">Molise</campo>
+        <campo name="latitudine">41.561000</campo>
+        <campo name="longitudine">14.668400</campo>
+    </regione>
+    <regione>
+        <campo name="id">15</campo>
+        <campo name="nome">Campania</campo>
+        <campo name="latitudine">40.833333</campo>
+        <campo name="longitudine">14.250000</campo>
+    </regione>
+    <regione>
+        <campo name="id">16</campo>
+        <campo name="nome">Puglia</campo>
+        <campo name="latitudine">41.125278</campo>
+        <campo name="longitudine">16.866667</campo>
+    </regione>
+    <regione>
+        <campo name="id">17</campo>
+        <campo name="nome">Basilicata</campo>
+        <campo name="latitudine">40.633333</campo>
+        <campo name="longitudine">15.800000</campo>
+    </regione>
+    <regione>
+        <campo name="id">18</campo>
+        <campo name="nome">Calabria</campo>
+        <campo name="latitudine">38.910000</campo>
+        <campo name="longitudine">16.587500</campo>
+    </regione>
+    <regione>
+        <campo name="id">19</campo>
+        <campo name="nome">Sicilia</campo>
+        <campo name="latitudine">38.115556</campo>
+        <campo name="longitudine">13.361389</campo>
+    </regione>
+    <regione>
+        <campo name="id">20</campo>
+        <campo name="nome">Sardegna</campo>
+        <campo name="latitudine">39.216667</campo>
+        <campo name="longitudine">9.116667</campo>
+    </regione>
+</regioni>
