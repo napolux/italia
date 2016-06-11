@@ -5,8 +5,8 @@ In questo repository potrete trovare (**a breve online**) una serie di file util
 ### Contenuto del repository
 
 * Dump MySQL composto da tre tabelle: `comuni`, `province`, `regioni`. Le tabelle sono relazionate tra loro tramite i campi `id_regione`, `id_provincia` rispettivamente
-* Dump SQLite3 composto da tre tabelle: `comuni`, `province`, `regioni`. Le tabelle sono relazionate tra loro tramite i campi `id_regione`, `id_provincia`, rispettivamente
-* File JSON per comuni, province, regioni ("relazionati" come le tabelle MySQL)
+* Database SQLite3 composto da tre tabelle: `comuni`, `province`, `regioni`. Le tabelle sono relazionate tra loro tramite i campi `id_regione`, `id_provincia`, rispettivamente
+* File JSON per comuni, province, regioni ("relazionati" come le tabelle MySQL), espansi, non minimizzati
 * File XML per comuni, province, regioni ("relazionati" come le tabelle MySQL)
 
 ### Italiano o inglese?
