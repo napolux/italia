@@ -29,7 +29,7 @@
 # Logs and databases #
 ######################
 *.log
-*.sqlite
+# *.sqlite
 
 # PhpStorm files #
 ##################
