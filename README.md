@@ -30,6 +30,10 @@ Puoi contribuire aggiungendo:
 * Correzioni / Variazioni
 * Nuovi formati dati ([partendo dagli originali ISTAT](http://www.istat.it/it/archivio/6789), e non dai file che trovi qui)
 
+### Scusa, non ci sono i CAP?
+
+I CAP sono dati di proprietà di Poste Italiane, [messi a disposizione su licenza](http://www.poste-impresa.it/online/pmi/postali/accessori/banchedati.shtml).
+
 ### Aggiornamento dati
 
 I dati sono basati sui [file originali ISTAT](http://www.istat.it/it/archivio/6789) aggiornati al **23 Aprile 2016**. Verranno aggiornati ogni volta che ISTAT rilascerà nuovi dati.
