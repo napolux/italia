@@ -1,6 +1,6 @@
 # Italia - Comuni, province, regioni, in diversi formati
 
-In questo repository potrete trovare (**a breve online**) una serie di file utili a costruire elenchi, endpoint JSON, `<select>` html, tabelle MySQL, ecc... Basati su comuni, province e regioni italiane.
+In questo repository potrete trovare una serie di file utili a costruire elenchi, endpoint JSON, `<select>` html, tabelle MySQL, ecc... Basati su comuni, province e regioni italiane.
 
 ### Contenuto del repository
 
