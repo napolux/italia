@@ -12,7 +12,7 @@ In questo repository potrete trovare una serie di file utili a costruire elenchi
 ### Italiano o inglese?
 
 Essendo un repository ad uso prettamente autarchico, per le label di campi, oggetti, ecc... Ho preferito mantenere la variante italiana.
-Eventualmente in futuro sarà possibile aggiungere lingue differenti.
+**In futuro sarà possibile aggiungere lingue differenti**.
 
 ### Alcune precisazioni
 
