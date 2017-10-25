@@ -20,7 +20,7 @@ Essendo un repository ad uso prettamente autarchico, per le label di campi, ogge
  con quelli indicati dall'ISTAT.
 * Dove indicati, sono utilizzati i doppi nomi (italiano/francese, italiano/tedesco)
 * Le coordinate geografiche sono prese dal sito [geonames.org](http://www.geonames.org/) o da fonti alternative, latitudine e longitudine sono precisi secondo il formato MySQL `Decimal(9,6)` come specificato [qui](http://stackoverflow.com/a/19066438/208623)
-* Le coordinate di Regioni, Province, Città Metropolitane fanno riferimento alle coodinate del capoluogo (o di uno dei capoluoghi), dove disponibili. Comunque ad un punto interno al territorio della provincia altrimenti.
+* Le coordinate di Regioni, Province, Città Metropolitane fanno riferimento alle coordinate del capoluogo (o di uno dei capoluoghi), dove disponibili. Comunque ad un punto interno al territorio della provincia altrimenti.
 * Il tutto è "salvo errori e/o omissioni"
 
 ### Come posso contribuire?
